@@ -10,5 +10,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+	},
+	"author": {
+		"name": "Muhamad-Zaki-Anbari",
+		"email": "zakynineth@gmail.com"
 	}
 }
